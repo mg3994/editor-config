@@ -21,6 +21,8 @@
     "tabnine.experimentalAutoImports": true,
     "bitoAI.codeCompletion.setAutoCompletionTriggerLogic": 250,
     "dart.openDevTools": "flutter",
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
     "dart.previewFlutterUiGuides": true,
     "dart.previewFlutterUiGuidesCustomTracking": true,
 }
